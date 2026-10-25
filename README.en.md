@@ -41,3 +41,17 @@ A practice-oriented meeting for those who want to get introductory knowledge, us
 - VK club page: Nastya
 - Club events: responsible for events, by default captain (Ivan).
 - This repository is: Nikolay
+
+## Tools
+
+For easier content creation use tools.
+
+### creating_presentations
+
+Example of compiling presentation from `.md` using [Pandoc](https://github.com/jgm/pandoc/blob/main/INSTALL.md) and Beamer:
+
+```bash
+cd tools/creating_presentations/example
+pandoc -t beamer inp.md -o out.pdf
+open out.pdf
+```

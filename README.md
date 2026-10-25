@@ -41,3 +41,17 @@ Choose readme language:
 - Страница клуба ВК: Настя
 - Мероприятия клуба: ответственный за мероприятия, по умолчанию капитан (Иван).
 - Этот репозиторий: Николай
+
+## Инструменты
+
+Для облегченного и более единообразного создания образовательного контента можно воспользоваться инструментами из папки `tools`.
+
+### creating_presentations
+
+Пример создания презентации из md файла с использованием [Pandoc](https://github.com/jgm/pandoc/blob/main/INSTALL.md) и Beamer:
+
+```bash
+cd tools/creating_presentations/example
+pandoc -t beamer inp.md -o out.pdf
+open out.pdf
+```
