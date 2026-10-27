@@ -73,7 +73,7 @@ header-includes: |
 :::
 ::::
 
-# Код и задание
+# Разбор реализации на Python
 
 ```python
 def binary_search(arr, target):
@@ -92,14 +92,18 @@ def binary_search(arr, target):
     return -1
 ```
 
-# Пример выполнения кода
+# Задание
 
-```python
-numbers = [2, 7, 13, 19, 25, 34, 37, 46, 58, 72]
-result = binary_search(numbers, 37)
-print(f"Found at index: {result}")  # → 6
-print(binary_search(numbers, 99))   # → -1
-```
+1. Откройте папку `problems/L0` на рабочем столе.
+2. Откройте README прочитайте алгоритмическую задачу.
+3. Запишите своё решение в файл `main.py`.
+4. Проверьте решение:
+    1. Отроййте терминал `konsole`.
+    2. Напишите `python `.
+    3. Перетащите `test_search.py` в окно терминала.
+    4. Нажмите Enter для запуска тестов.
+
+После решения задачи уровня L0 можете перейти к L1 или начать помогать товарищам.
 
 # Обратная связь
 
