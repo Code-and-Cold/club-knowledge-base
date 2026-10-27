@@ -4,6 +4,7 @@ In each folder L[0-2], there are the following files:
 
 - `task.md`: task description.
 - `main.py`: your solution.
-- `test.py`: tests.
+- `test_search*.py`: tests.
 
-To check the solution, use the `pytest` command.
+To check the solution, use: `python test_search.py` (for unittest, work out of the box).
+To check the solution using better highlighting use the `pytest` command (require pytest installed in venv or system-wide).
