@@ -20,8 +20,10 @@ The duration of classes may vary, with an average of 1-1.5 hours.
 
 ### Upcoming events
 
-- 10/26/27 Algorithmic Tuesday: understanding binary search.
-- 11/26/03 Learning X in an hour: Pandoc + beamer as a tool for generating presentations from md.
+- 26/11/03: Learning X in an hour: Pandoc + beamer as a tool for generating presentations from md.
+- 26/11/05: Learning X in an hour: Docker for a DevOps engineer (Docker, compose) (WIP).
+
+Ideas for events can be stored in [ideas](ideas.md) or [todo](todo.md).
 
 ## Categories
 
