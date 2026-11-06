@@ -20,7 +20,6 @@ The duration of classes may vary, with an average of 1-1.5 hours.
 
 ### Upcoming events
 
-- 26/11/05: Learning X in an hour: Docker for a DevOps engineer (Docker, compose).
 - 26/11/10 Algorithmic Tuesday: Sorting algorithms (sorting with choice) (WIP).
 
 Ideas for events can be stored in [ideas](ideas.md) or [todo](todo.md).

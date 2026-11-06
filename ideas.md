@@ -17,3 +17,13 @@
 - Hashing and HashMaps
 
 # + Possible new category: CyberSec Thursday
+
+# Other
+
+- Client-server architecture
+
+# Requests
+
+- Golang base. (Comparison with other languages included).
+- Algos.
+
