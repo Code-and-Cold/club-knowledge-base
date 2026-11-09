@@ -18,7 +18,6 @@ theme_overrides:
   colors:
     title_text: "#ffffff"
 ---
-s
 # Docker за час
 
 Евсеев Иван Александрович 151319

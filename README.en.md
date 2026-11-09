@@ -20,7 +20,9 @@ The duration of classes may vary, with an average of 1-1.5 hours.
 
 ### Upcoming events
 
-- 26/11/10 Algorithmic Tuesday: Sorting algorithms (sorting with choice) (WIP).
+- 26/11/10 Algorithmic Tuesday: sorting algorithms (selection sort).
+- 26/11/17 Tool for an hour: VPN.
+- 26/11/19 Tool for an hour: Golang for DevOps engineer.
 
 Ideas for events can be stored in [ideas](ideas.md) or [todo](todo.md).
 

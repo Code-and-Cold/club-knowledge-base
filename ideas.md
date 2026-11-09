@@ -1,6 +1,6 @@
 # In Priority
 
-- Docker (practice alligned) (direct request)
+- Golang base. (Comparison with other languages included).
 
 # New tech in an hour
 
@@ -24,6 +24,5 @@
 
 # Requests
 
-- Golang base. (Comparison with other languages included).
 - Algos.
 
